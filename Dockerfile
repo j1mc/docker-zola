@@ -11,6 +11,6 @@ RUN apk -U upgrade && apk --update --no-cache add wget tar nodejs && \
     rm gutenberg.tar.gz && \
     rm -rf /var/cache/apk/*
 
-ENV PATH $PATH:node_modules/.bin:/opt/gutenberg-${VERSION}/bin
+ENV PATH $PATH:node_modules/.bin:/opt/gutenberg-${VERSION}
 
 CMD ["sh", "-c", "gutenberg serve"]
