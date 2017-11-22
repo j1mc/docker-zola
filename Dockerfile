@@ -1,6 +1,6 @@
 FROM node:8.8-slim
 
-MAINTAINER Nikolauska <nikolauska1@gmail.com>
+MAINTAINER Jim Campbell <jwcampbell@gmail.com>
 
 ENV VERSION v0.2.2
 
