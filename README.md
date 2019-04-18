@@ -6,7 +6,7 @@ and will be updated with later releases.
 
 ## Features
 
-- Small size: The Zola 0.60 docker image is only 35.4 MB in size.
+- Small size: The Zola 0.6.0 docker image is only 35.4 MB in size.
 - Up-to-date: I'll create an updated docker image for each upstream Zola
   release.
 
