@@ -1,7 +1,7 @@
 FROM alpine:latest
 MAINTAINER Jim Campbell <jwcampbell@gmail.com>
 
-ENV VERSION v0.6.0
+ENV VERSION v0.7.0
 
 RUN apk add --no-cache bash && \
     apk add --no-cache curl && \
