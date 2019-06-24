@@ -1,14 +1,8 @@
 # docker-zola
 
 This is a dockerfile for the Rust-based static site generator,
-[Zola](https://www.getzola.org/). This image is based on Zola version 0.7.0,
+[Zola](https://www.getzola.org/). This image is based on Zola version 0.8.0,
 and will be updated with later releases.
-
-## Features
-
-- Small size: The Zola 0.7.0 docker image is only 35.4 MB in size.
-- Up-to-date: I'll create an updated docker image for each upstream Zola
-  release.
 
 ## Installation
 
