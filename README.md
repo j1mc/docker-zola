@@ -15,7 +15,7 @@ docker pull j1mc/docker-zola
 ## Support
 
 If you encounter problems with this dockerfile, please
-[file and issue](https://github.com/j1mc/docker-zola/issues).
+[file an issue](https://github.com/j1mc/docker-zola/issues).
 
 ## License
 
