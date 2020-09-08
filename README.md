@@ -1,7 +1,7 @@
 # docker-zola
 
 This is a dockerfile for the Rust-based static site generator,
-[Zola](https://www.getzola.org/). This image is based on Zola version 0.11.0,
+[Zola](https://www.getzola.org/). This image is based on Zola version 0.12.0,
 and will be updated with later releases.
 
 ## Installation
