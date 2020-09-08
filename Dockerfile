@@ -1,5 +1,5 @@
 FROM bitnami/minideb AS builder
-ENV ZOLA_VERSION v0.11.0
+ENV ZOLA_VERSION v0.12.0
 RUN install_packages python-pip curl tar python-setuptools rsync binutils
 RUN pip install dockerize
 RUN mkdir -p /workdir
